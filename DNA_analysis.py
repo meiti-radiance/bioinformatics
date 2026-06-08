@@ -1,4 +1,4 @@
-dna = "TATCGCTAGCTACG"
+dna = "input"
 L = len(dna)
 print(L)
 A = dna.count("A")
